@@ -12,3 +12,5 @@ Commands:
 
 Is required pyrogram (https://docs.pyrogram.org/intro/install)
 and python 3.
+
+If u need any help, contact me on Telegram: @UsernameUsermoso
