@@ -2,7 +2,7 @@
 
 Hi!
 
-The utility of this group is to blacklist toxic people from ur group/groups.
+The utility of this bot is to blacklist toxic people from ur group/groups.
 
 When a person blacklisted will join in your group, will be banned for 1 week. (i have set 1 week if u unblock him, else permamently banned.)
 
