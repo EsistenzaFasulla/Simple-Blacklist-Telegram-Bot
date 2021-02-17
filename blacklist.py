@@ -28,7 +28,7 @@
 Attention!
 This code is only to blacklist toxic people from ur group/groups.
 
-If u find need help, dm me on telegram and i will help u.
+If u need help, dm me on telegram and i will help u.
 '''
 
 from pyrogram import Client, filters
