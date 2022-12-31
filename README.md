@@ -1,5 +1,18 @@
 # Simple-Blacklist-Telegram-Bot
 
+
+31.12.2022 UPDATE
+fixed bugs
+
+added /setadmin @username - Give bot's admin permissions to a user.
+added /unsetadmin @username - remove bot's admin permissions from a user.
+
+/block
+/unblock
+
+
+
+
 Hi!
 
 The utility of this bot is to blacklist toxic people from ur group/groups.
